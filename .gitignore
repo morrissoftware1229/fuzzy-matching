@@ -1,0 +1,6 @@
+# Anything beginning with a . except the gitignore
+.*
+!.gitignore
+
+# The data
+records.csv
